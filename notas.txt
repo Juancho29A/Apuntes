@@ -1,3 +1,6 @@
 Capitulo 1: Introduccion a Git
 Capitulo 2: Flujo de trabajo basico
 Repositorios remotos
+
+Juancho
+PUYANDO ES QUE SE APRENDE...
